@@ -3,5 +3,11 @@
 *.pdf
 *.xls
 *.jpg
-/.idea
-/out
+
+*.class
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
