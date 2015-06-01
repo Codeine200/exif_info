@@ -1,0 +1,7 @@
+*.zip
+*.log
+*.pdf
+*.xls
+*.jpg
+/.idea
+/out
